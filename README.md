@@ -118,7 +118,7 @@ Mapping operations first flatten 2D or 3D features into 1D in a specific order a
 - [ECCV 24] **"MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training"**. *McKinzie et al.* [[Paper](https://arxiv.org/pdf/2403.09611)]
 ###### Variants 
 - [CVPR 24] **"Honeybee: Locality-enhanced Projector for Multimodal LLM"**. *Cha et al.* [[Paper](https://arxiv.org/pdf/2312.06742)] [[Resource](https://github.com/kakaobrain/honeybee)]   
-- [NeurIPS 2024] **"MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models"**. *Shen et al.* [[Paper](https://arxiv.org/pdf/2407.12709)] [[Resource](https://github.com/JiuTian-VL/MoME)] 
+- [NeurIPS 24] **"MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models"**. *Shen et al.* [[Paper](https://arxiv.org/pdf/2407.12709)] [[Resource](https://github.com/JiuTian-VL/MoME)] 
 ##### Semantic Perception
 
 ###### Q-Former 
@@ -161,17 +161,17 @@ Mapping operations first flatten 2D or 3D features into 1D in a specific order a
 #### Mixture of Experts
 
 ##### Vanilla MoE
-- [NeurIPS 2024] **"CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts"**. *Cha et al.* [[Paper](https://arxiv.org/pdf/2405.05949)] [[Resource](https://github.com/SHI-Labs/CuMo)]
-- [BIBM 2024]**"SurgFC: Multimodal Surgical Function Calling Framework on the Demand of Surgeons"**. *Chen et al.* [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10821976)] [[Resource](https://github.com/franciszchen/SurgFC)]
-- [ICLR 2025] **"CHARTMOE: MIXTURE OF DIVERSELY ALIGNED EXPERT CONNECTOR FOR CHART UNDERSTANDING"**. *Xu et al.* [[Paper](https://arxiv.org/pdf/2409.03277)] [[Resource](https://huggingface.co/IDEA-FinAI/chartmoe)]  
+- [NeurIPS 24] **"CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts"**. *Cha et al.* [[Paper](https://arxiv.org/pdf/2405.05949)] [[Resource](https://github.com/SHI-Labs/CuMo)]
+- [BIBM 24]**"SurgFC: Multimodal Surgical Function Calling Framework on the Demand of Surgeons"**. *Chen et al.* [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10821976)] [[Resource](https://github.com/franciszchen/SurgFC)]
+- [ICLR 25] **"CHARTMOE: MIXTURE OF DIVERSELY ALIGNED EXPERT CONNECTOR FOR CHART UNDERSTANDING"**. *Xu et al.* [[Paper](https://arxiv.org/pdf/2409.03277)] [[Resource](https://huggingface.co/IDEA-FinAI/chartmoe)]  
 ##### X-Guided MoE
 
 ###### Modality-Guided 
-- [CVPR 2024] **"OneLLM: One Framework to Align All Modalities with Language"**. *Han et al.* [[Paper](https://arxiv.org/pdf/2312.03700)] [[Resource](https://github.com/csuhan/OneLLM)] 
+- [CVPR 24] **"OneLLM: One Framework to Align All Modalities with Language"**. *Han et al.* [[Paper](https://arxiv.org/pdf/2312.03700)] [[Resource](https://github.com/csuhan/OneLLM)] 
 ###### Text-Guided
-- [ACM MM 2024] **"Q-MoE: Connector for MLLMs with Text-Driven Routing"**. *Wang et al.* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681369)]
+- [ACM MM 24] **"Q-MoE: Connector for MLLMs with Text-Driven Routing"**. *Wang et al.* [[Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681369)]
 ###### Task-Guided
-- [NeurIPS 2024] **"Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE"**. *Zhu et al.* [[Paper](https://arxiv.org/abs/2409.17508)] [[Resource](https://github.com/tsinghua-msiip/Uni-Med)]  
+- [NeurIPS 24] **"Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE"**. *Zhu et al.* [[Paper](https://arxiv.org/abs/2409.17508)] [[Resource](https://github.com/tsinghua-msiip/Uni-Med)]  
 ##### Variant MoE
 - [CVPR 24] **"V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs"**. *Wu and Xie* [[Paper](https://arxiv.org/pdf/2312.14135)] [[Resource](https://github.com/penghao-wu/vstar)]
 ### Holistic Connector Designs
