@@ -18,6 +18,8 @@
 
 ## 🔔 News
 
+- 🎉 [2025/04/29] Connector-S is accepted by IJCAI 2025 Survey Track!
+
 - ✨ [2025/03/16] We create this repository to maintain and expand a paper list on connectors in MLLMs. More papers are coming soon!
 
 - 💥 [2025/02/18] Our survey is released! See [Connector-S](https://arxiv.org/abs/2502.11453) for the paper!
